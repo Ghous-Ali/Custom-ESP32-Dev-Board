@@ -90,4 +90,4 @@ This project is open-source hardware. See [LICENSE](LICENSE) for details.
 ---
 
 Designed by **Ghous Ali** — Electronics & Embedded Systems Engineer  
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/ghousali13/) · [Email](Ghousali1019@email.com)
